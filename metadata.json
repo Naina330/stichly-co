@@ -1,0 +1,10 @@
+{
+  "name": "STICHLY&CO. - Luxury Bespoke Marketplace",
+  "description": "Connecting India's finest local tailors with customers who want something uniquely theirs. Bespoke tailoring, custom design studio, live negotiation, and artisan ateliers.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
